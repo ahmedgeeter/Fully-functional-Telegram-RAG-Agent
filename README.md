@@ -1,3 +1,25 @@
+<img width="1270" height="535" alt="Screenshot 2026-05-04 005933" src="https://github.com/user-attachments/assets/47afc2f5-f356-4c3e-9f51-5365e0394fea" />
+
+<img width="1859" height="681" alt="Screenshot 2026-05-04 010310" src="https://github.com/user-attachments/assets/1f0309b1-af42-4119-b7c0-769514acc021" />
+
+<img width="1857" height="703" alt="Screenshot 2026-05-04 010326" src="https://github.com/user-attachments/assets/b9ef0d39-b673-4afb-b41f-38eaee29ef35" />
+
+<img width="994" height="779" alt="Screenshot 2026-05-04 010434" src="https://github.com/user-attachments/assets/e4b5ac87-7900-4953-b7b7-0f5d3c715d44" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Autonomous Telegram AI Agent with Enterprise RAG Integration
 
 This repository showcases a production-ready AI Agent engineered to provide specialized document intelligence. Unlike standard chatbots, this system utilizes a Retrieval-Augmented Generation (RAG) pipeline to ensure all responses are grounded in real-world proprietary data, effectively eliminating AI hallucinations and delivering enterprise-grade accuracy.
